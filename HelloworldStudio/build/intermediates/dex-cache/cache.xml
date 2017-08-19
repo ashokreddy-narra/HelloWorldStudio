@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/androidTest/debug/javax.inject-1_54187cfeb9171fc8abd56e4d4b156d089684814a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/30fbe413492f8fb13179fc399e20712c9fe3559e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/androidTest/debug/classes_d5f66c84c0f43b732d7ef9f35205dfbce4d7f3d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/643e52fa39ef85ae4b53251b98dec6d1112af6f9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/androidTest/debug/classes_7d6ac1cd50abced094dcf3f0652913dfd667b409.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/cf20f3406c6bdaafe9a6ed59552c0de1457835ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/debug/classes_f74c96e2bc7755ac4b3e5bbfe6a8009371d6261a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-library/1.3/4785a3c21320980282f9f33d0d1264a69040538f/hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-library-1.3_72e88c2d7c185a6852f73c890c54048dc37a4186.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/7a3a3c64b70caff96d631838c3165390712b969f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/androidTest/debug/classes_f9114880b7834e32f45f3dcb5ab5880b194f75ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.gradle/caches/modules-2/files-2.1/javax.annotation/javax.annotation-api/1.2/479c1e06db31c432330183f5cae684163f186146/javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/androidTest/debug/javax.annotation-api-1.2_137ec321d0087ab455e9e1f445f8f2d315989cde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/c2dc45e9277c79cee3213222e6059277920eb6c7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/debug/classes_70a7137ebaef6caa90e188594279a260efce5fe0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.gradle/caches/modules-2/files-2.1/com.squareup/javawriter/2.1.1/67ff45d9ae02e583d0f9b3432a5ebbe05c30c966/javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/androidTest/debug/javawriter-2.1.1_fe7a8a002247dd229e3e58fa060b2ce771da9243.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/588c0f0b9b6474a355149f0ad3e180c323df5a3d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/debug/classes_eaa4bef03fa8555b4740c5c109c5d3ebaa720179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.gradle/caches/modules-2/files-2.1/junit/junit/4.12/2973d150c0dc1fefe998f834810d68f278ea58ec/junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/androidTest/debug/junit-4.12_8737d8acb7f8983bd995e23f2a63cf677be44c51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-core/1.3/42a25dc3219429f0e5d060061f71acb49bf010a0/hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-core-1.3_b425ee5b0d5bc0fcde3dca8d481a958449c344d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/1f7f4113aff8cb7257d48d111b3b2bf9f86e4386/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/debug/classes_86af54205239b5043d0fbdb56a37b7f4cad38e30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/11ff3409275247611a4f2f09f0876b3c6b210f7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/debug/classes_b9939cc0a757b55469aa2653ea7b75849b2a089c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/aaa04a6d43cf4684af8e684794ebf6b08d90ef0d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/androidTest/debug/classes_9c03c745e6f2ce9dac14a7732d3b29cb83ba6827.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/b916b6cd9723502dd9d7e89f2c4d220c12a150f2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/debug/classes_3551f0f33fd5d2a6cc640235b5b152d3e48d1ded.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/Android/Sw/Studio/SDK/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_78640185d5647f6b25b43636f95b86cd69f6dd66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/d6197f77a2c3243af28a95bd65c8296b8f159051/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/debug/classes_84b278aee5163064ec4ebfc2af8c3fe4586098b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/2.0.1/516c03b21d50a644d538de0f0369c620989cd8f0/jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/androidTest/debug/jsr305-2.0.1_6a98f7e369092630e8ad36c0633c2c3e5daeb42d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/44d274577605a900091338e2baa209a5dc6c6f24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/debug/classes_aaf1b31d2ccf89a9b763ab7a26ce862108644628.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="360b12813aa22c438bdffb0273f5e6b0b4fc24d1">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_78ecb8cc6ba812739361596871e31e33ff0ee7dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_8c216829b9ca63076448e5d4c540d3080777a6e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/a32a268be161b1858c219a48f6809f22fe4d8806/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/debug/classes_83d6d869c98e4e196831b040ba798cc93a8bf6af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.android/build-cache/2fa71368aedc550fef2a5628af3964bc3b9f8923/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/androidTest/debug/classes_ad7aa39061f286f6141586ad41f378e9ce7bae8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/anarra/.gradle/caches/modules-2/files-2.1/org.hamcrest/hamcrest-integration/1.3/5de0c73fef18917cd85d0ab70bb23818685e4dfd/hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="/Users/anarra/Android/JenkinsSamples/Ws/HelloworldStudio/app/build/intermediates/pre-dexed/androidTest/debug/hamcrest-integration-1.3_558006cf68309a1733178cf99889fe4b37b5ba2d.jar" />
+    </item>
+
+</items>

@@ -6,7 +6,7 @@ package androidstudio.learning.com.helloworldstudio;
 
 public class Utility {
 
-    public static int getSum(int num1, int num2){
-        return num1+num2;
+    public static int getSum(int num1, int num2) {
+        return num1 + num2;
     }
 }

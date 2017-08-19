@@ -14,6 +14,7 @@ public class HelloworldActivity extends Activity {
 
 
     TextView helloworld;
+
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,7 +22,7 @@ public class HelloworldActivity extends Activity {
         helloworld = (TextView) findViewById(R.id.helloworld);
     }
 
-    public void onClick(View view){
+    public void onClick(View view) {
         helloworld.setText("Clicked");
     }
 }

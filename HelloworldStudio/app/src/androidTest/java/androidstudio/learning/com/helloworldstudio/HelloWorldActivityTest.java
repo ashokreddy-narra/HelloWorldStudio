@@ -20,10 +20,10 @@ public class HelloWorldActivityTest {
     public ActivityTestRule<HelloworldActivity> rule = new ActivityTestRule<>(HelloworldActivity.class);
 
     @Test
-    public void testHelloworldView(){
+    public void testHelloworldView() {
         HelloworldActivity activity = rule.getActivity();
-        TextView helloworldViewc=(TextView) activity.findViewById(R.id.helloworld);
-        assertThat(helloworldViewc.getText().toString(),is("hello"));
+        TextView helloworldView = (TextView) activity.findViewById(R.id.helloworld);
+        assertThat(helloworldView.getText().toString(), is("hello"));
 
     }
 
